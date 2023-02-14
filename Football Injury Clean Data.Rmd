@@ -7,6 +7,16 @@ output: slidy_presentation
 ##Data
 
 https://www.kaggle.com/competitions/nfl-playing-surface-analytics/data
+I would Provide the data but the "PlayerTrackData.csv" is too big to share on Github
+
+=================================================TIPS=================================================
+when you see 
+```{r}
+```
+in RStudio I am using a Markdown file. This makes a R script between those three punctuation.
+
+What is between those punctuation are being compiled, everything outside of it, is not and are notes for my Slidy for Prubs
+=======================================================================================================
 
 ```{r}
 
